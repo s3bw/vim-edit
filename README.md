@@ -10,7 +10,7 @@
 
 Open the file in your vim editor. Changes are saved.
 
-```
+```python
 from vim_edit import editor
 
 with open("README.md") as file:
