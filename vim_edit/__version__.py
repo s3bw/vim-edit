@@ -8,4 +8,4 @@ ___  _|__| _____             ____   __| _/|__|/  |_
 """
 __title__ = "vim-edit"
 __description__ = "Open file-like objects for editing in vim."
-__version__ = "1.0.0"
+__version__ = "1.0.1"

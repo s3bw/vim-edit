@@ -17,6 +17,6 @@ setup(
     url="https://github.com/foxyblue/vim-edit",
     author="S. Williams-Wynn",
     author_email="s.williamswynn.mail@gmail.com",
-    packages=find_packages(include=["vim-edit"]),
+    packages=find_packages(include=["vim_edit"]),
     python_requires=">=3.6",
 )
