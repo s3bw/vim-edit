@@ -6,6 +6,12 @@
     Just opening file-like objects in vim.
 </h4>
 
+## Install
+
+```
+pip install vim-edit
+```
+
 ## Usage
 
 Open the file in your vim editor. Changes are saved.
